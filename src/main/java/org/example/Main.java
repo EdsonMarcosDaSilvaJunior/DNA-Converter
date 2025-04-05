@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Main {
     //psvm
     public static void main(String[] args) {
-        //codigo DNA = ATGATTATTGATACAGTTTTTGTACTATATTGGTACGGGAAGGTTCCAACTGA
+        //codigo DNA = ATGATTATTGATACAGTTTTTGTACTATATTGGTACGGGAAGGTTCCAACTTGA
 
         //sout
         Scanner leitor = new Scanner(System.in);
